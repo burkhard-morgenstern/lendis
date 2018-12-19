@@ -20,8 +20,9 @@ If you publish results obtained with our software, please cite this paper.
 The program "lendis" requires as input a set of DNA sequences as single FASTA files (one single-sequence FASTA
 file per species). These files must be in the same directory where you run the Perl scripts.  
 
-To run the software, first install the specialized version of the program kmacs that is provided in this package:
-detar kmacs_ld.tar and run "make". The produced executable is called "kmacs_ld" (for "length distribution").
+To run the software, first install the specialized version of the program kmacs that is in the directory
+"kmacs_ld". To install the program, just use "make". The produced executable is called "kmacs_ld" (for "length
+distribution").
 
 The Perl scripts that are provided in this package further process the output of kmacs_ld and finally calculate
 pairwise distances between all .fa sequences in the current directory.
