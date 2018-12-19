@@ -9,7 +9,7 @@ of substitutions since they diverged from their last common ancestor.
 The approach is described in:
 
 B. Morgenstern, S. Schöbel, C-A. Leimeister (2017)
-Phylogeny reconstruction based on the length distribution of k-mismatch common substrings
+Phylogeny reconstruction based on the length distribution of k-mismatch common substrings.
 Algorithms for Molecular Biology 12, 27
 
 https://almob.biomedcentral.com/articles/10.1186/s13015-017-0118-8
